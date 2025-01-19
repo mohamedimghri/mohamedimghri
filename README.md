@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
-- 👨‍💻  my portfolio web site t [[https://my-personal-portfolio-gamma.vercel.app/]([https://my-personal-portfolio-gamma.vercel.app/](https://mohamedimghri.github.io/portfolio/)])
+- 👨‍💻  my portfolio web site t [(https://mohamedimghri.github.io/portfolio/)]
 
 - 💬 Ask me about **Java, Kotlin Js and Application Development**
 
