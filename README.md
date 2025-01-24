@@ -11,10 +11,7 @@
 - 💬 Ask me about **Java, Kotlin  and Application Development**
 
 - 📫 How to reach me **mohamedimghri06@gmail.com**
-
-- hjjjj
-
-                       
+                  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
