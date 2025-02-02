@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning **Java and Kotlin**
 
 - 👨‍💻 my portfolio web site https://mohamedimghri.github.io/portfolio/
-
-- 
-
+  
 - 💬 Ask me about **Java, Kotlin  and Application Development**
 
 - 📫 How to reach me **mohamedimghri06@gmail.com**
