@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Application developer from Morocco</h3>
 
 - 🔭 I’m currently working on **Spriing Boot Projects**
-- 
-
+  
 - 🌱 I’m currently learning **Java and Kotlin**
 
 - 👨‍💻 my portfolio web site https://mohamedimghri.github.io/portfolio/
