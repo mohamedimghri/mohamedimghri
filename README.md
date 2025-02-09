@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Imghri</h1>
 <h3 align="center">A passionate Application developer from Morocco</h3>
 
+
 - 🔭 I’m currently working on **Spriing Boot Projects**
   
 - 🌱 I’m currently learning **Java and Kotlin**
