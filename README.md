@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Spriing Boot Projects**
   
-- 🌱 I’m currently learning **Java and Kotlin**
+- 🌱 I’m currently learning **Java,Kotlin and Flutter**
 
 - 👨‍💻 my portfolio web site https://mohamedimghri.github.io/portfolio/
   
