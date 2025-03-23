@@ -22,6 +22,7 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedimghri&show_icons=true&locale=en&layout=compact" alt="mohamedimghri" /></p>
+
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedimghri&theme=gotham)](https://github.com/mohamedimghri/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedimghri&&theme=gotham)](https://git.io/streak-stats)
