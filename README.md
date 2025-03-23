@@ -27,5 +27,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedimghri&theme=gotham)](https://github.com/mohamedimghri/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedimghri&&theme=gotham)](https://git.io/streak-stats)
 
+# 📊 Most used  language:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedimghri&show_icons=true&locale=en&layout=compact" alt="mohamedimghri" /></p>
 
