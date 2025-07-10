@@ -22,6 +22,15 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 
+## ⚒ Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-e44d26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSharp-178600?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
+
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedimghri&theme=gotham)](https://github.com/mohamedimghri/github-readme-stats)
