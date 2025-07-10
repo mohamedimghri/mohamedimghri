@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/HTML-e44d26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/CSharp-178600?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-178600?style=flat&logo=java&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/Kotlin-178600?style=flat&logo=kotlin&logoColor=white" alt="C#"/>
 </p>
 
 
